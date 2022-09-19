@@ -1,2 +1,2 @@
 # CS406.N11.KHCL  
-Xử lý ảnh và ứng dụng
+<h1 align="center">XỬ LÝ ẢNH VÀ ỨNG DỤNG</h1>
