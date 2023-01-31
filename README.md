@@ -7,6 +7,19 @@
      <img src="https://c.vanceai.com/assets/images/old_photo_restoration/desc_img_01-eccfadece3.jpg" alt="Logo" width="352" height="187">
   </a>
   <h3 align="center">RESTORE PORTRAIT IMAGES</h3>
+  
+  <p align="center">
+    USING DIP, BOPBTF, GFPGAN
+    </br>
+    </br>
+    <a href="https://github.com/erezposner/deep-image-prior">DEEP IMAGE PRIOR</a>
+    ·
+    <a href="https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life">BRINGING OLD PHOTOS BACK TO LIFE</a>
+    ·
+    <a href="https://github.com/TencentARC/GFPGAN">GFPGAN</a></br>
+    <a href="https://docs.google.com/presentation/d/1lHpCs_yT1bTSuFEV2osxA4-fnfcIFlhlYO1ujT3VFUE/edit#slide=id.g13f3876e864_0_475">LINK PROJECT</a>
+  </p>
+</div>
 
 <table align="center">
  <tr>
