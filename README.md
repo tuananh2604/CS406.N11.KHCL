@@ -4,7 +4,7 @@
 <div align="center">
   <h3 align="center">COURSE PROJECT</h3>
   <a>
-     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotpot.ai%2Frestore-picture&psig=AOvVaw001lPwClnhpD6eIiZNNGrQ&ust=1675261821758000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC8reCC8vwCFQAAAAAdAAAAABAE" alt="Logo" width="640" height="304.5">
+     <img src="https://c.vanceai.com/assets/images/old_photo_restoration/desc_img_01-eccfadece3.jpg" alt="Logo" width="352" height="187">
   </a>
   <h3 align="center">RESTORE PORTRAIT IMAGES</h3>
 
