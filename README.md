@@ -1,6 +1,13 @@
 # CS406.N11.KHCL  
 <h1 align="center">XỬ LÝ ẢNH VÀ ỨNG DỤNG</h1>
 
+<div align="center">
+  <h3 align="center">COURSE PROJECT</h3>
+  <a>
+     <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhotpot.ai%2Frestore-picture&psig=AOvVaw001lPwClnhpD6eIiZNNGrQ&ust=1675261821758000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMC8reCC8vwCFQAAAAAdAAAAABAE" alt="Logo" width="640" height="304.5">
+  </a>
+  <h3 align="center">RESTORE PORTRAIT IMAGES</h3>
+
 <table align="center">
  <tr>
   <th>MSSV</th>
